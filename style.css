@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding:0px;
+    font-family: Arial;
+}
+
+body {
+    font-siez:18px;
+    line-height:1.5;
+}
+
+#submit-quiz,
+#generate-quiz {
+    font-size:18px;
+    padding:12px;
+}
+
+/* style.css */
+#quiz-container {
+    padding:24px;
+    max-width:640px;
+    margin: 0px auto;
+}
+
+.question {
+    margin-bottom: 30px;
+}
+
+    .question div {
+        padding: 8px 0 8px 0;
+    }
+
+    .question div h3 {
+        font-size:24px;
+        margin-bottom:16px;
+    }
+
+    .question div label {
+        margin-left:10px;
+    }
+
+.q-title {
+    font-weight:bold;
+}
+
+#result {
+    padding:20px;
+    border:1px solid #DBDBDB;
+    background-color: #FEF2D9;
+}

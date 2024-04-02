@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "Ce este fotografia?",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie?",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial?",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei?",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip?",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103?",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie?",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor?",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie?",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW?",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q11)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q12)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q13)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q14)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q15)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q16)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q17)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q18)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q19)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q20)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q21)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q22)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q23)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q24)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q25)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q26)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q27)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q28)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q29)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q30)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q31)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q32)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q33)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q34)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q35)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q36)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q37)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q38)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q39)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q40)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q41)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q42)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q43)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q44)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q45)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q46)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q47)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q48)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q49)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q50)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q51)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q52)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q53)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q54)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q55)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q56)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q57)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q58)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q59)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q60)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q61)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q62)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q63)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q64)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q65)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q66)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q67)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q68)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q69)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q70)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q71)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q72)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q73)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q74)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q75)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q76)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q77)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q78)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q79)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q80)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q81)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q82)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q83)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q84)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q85)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q86)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q87)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q88)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q89)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q90)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este fotografia? (Q91)",
+        "options": [
+            "Arta de a picta cu lumina",
+            "\u0218tiin\u021ba de a captura imagini prin intermediul luminii",
+            "O metod\u0103 de \u00eenregistrare a sunetului",
+            "O tehnic\u0103 de creare a sculpturilor"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "De unde provine termenul fotografie? (Q92)",
+        "options": [
+            "Din cuvintele latine 'photo' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphy' \u00eensemn\u00e2nd a desena",
+            "Din cuvintele grece\u0219ti 'photos' \u00eensemn\u00e2nd lumin\u0103 \u0219i 'graphos' \u00eensemn\u00e2nd a scrie sau a desena",
+            "Din cuvintele franceze 'photo' \u00eensemn\u00e2nd imagine \u0219i 'graphie' \u00eensemn\u00e2nd tehnic\u0103",
+            "Din cuvintele italiene 'fotografia' \u00eensemn\u00e2nd desenul luminii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care a fost scopul principal al fotografiei c\u00e2nd a fost dezvoltat\u0103 ini\u021bial? (Q93)",
+        "options": [
+            "Comunicare",
+            "Expresie artistic\u0103",
+            "Documentarea evenimentelor",
+            "Crearea h\u0103r\u021bilor"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Cine este considerat pionierul fotografiei? (Q94)",
+        "options": [
+            "Leonardo da Vinci",
+            "Joseph Nicephore Niepce",
+            "George Eastman",
+            "Ansel Adams"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este un dagherotip? (Q95)",
+        "options": [
+            "Un tip de camer\u0103 digital\u0103",
+            "Primul proces fotografic practic",
+            "O tehnic\u0103 de pictur\u0103",
+            "Un format timpuriu de film"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce controleaz\u0103 'diafragma' \u00eentr-o camer\u0103? (Q96)",
+        "options": [
+            "Dimensiunea obiectivului",
+            "Cantitatea de lumin\u0103 care ajunge la senzor",
+            "Balansul de culoare",
+            "Focalizarea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este ISO \u00een fotografie? (Q97)",
+        "options": [
+            "Un format de fi\u0219ier pentru imagini",
+            "Un standard pentru obiectivele aparatelor foto",
+            "Sensibilitatea senzorului camerei la lumin\u0103",
+            "Un tip de card de memorie pentru camer\u0103"
+        ],
+        "correct_answers": [
+            2
+        ]
+    },
+    {
+        "question": "Ce efect are o lungime focal\u0103 mai mare asupra fotografiilor? (Q98)",
+        "options": [
+            "Permite viteze mai rapide ale obturatorului",
+            "Face ca fundalul s\u0103 par\u0103 mai aproape de subiect",
+            "Creste profunzimea de c\u00e2mp",
+            "Scade calitatea imaginii"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Ce este regula treimilor \u00een fotografie? (Q99)",
+        "options": [
+            "Un ghid pentru echilibrarea luminii \u0219i umbrei",
+            "O tehnic\u0103 de compozi\u021bie unde cadru este \u00eemp\u0103r\u021bit \u00een nou\u0103 p\u0103r\u021bi egale",
+            "O metod\u0103 pentru dezvoltarea filmului",
+            "O regul\u0103 pentru stabilirea ISO-ului corect"
+        ],
+        "correct_answers": [
+            1
+        ]
+    },
+    {
+        "question": "Care este principalul avantaj al fotografiilor \u00een format RAW? (Q100)",
+        "options": [
+            "Dimensiuni mai mici ale fi\u0219ierelor",
+            "Post-procesare mai flexibil\u0103",
+            "Viteze mai rapide de fotografiere",
+            "Prelucrare mai bun\u0103 \u00een camer\u0103"
+        ],
+        "correct_answers": [
+            1
+        ]
+    }
+]
